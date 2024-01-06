@@ -69,6 +69,8 @@ nav a{
 .header{
     background-color: #fff8f3;
     background-image: url();
+    background-repeat: no-repeat;
+    background-position: bottom right, top left;
 
 
 }
@@ -200,6 +202,9 @@ footer{
 .footer-colume{
     width: 50px;
 }
+.social-links a{
+    margin-right: 25px;
+}
 
 .contact input[type="text"], .contact input[type="email"],
 textarea{
@@ -213,9 +218,7 @@ textarea{
     width: 100px;
 }
 
-.social-links{
-    margin-right: 25px;
-}
+
 
 
 
